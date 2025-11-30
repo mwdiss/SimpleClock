@@ -3,8 +3,8 @@ import com.clock.threading.TimePrinter;
 import com.clock.threading.TimeUpdater;
 
 /**
-* main app for the simple clock.
-* demonstrates creating threads with different priorities.
+* Main app for the simple clock.
+* Demonstrates creating threads with different priorities.
 * @author Malith Dissanayake
 */
 public class Main {

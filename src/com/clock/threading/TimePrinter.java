@@ -3,7 +3,7 @@ package com.clock.threading;
 import com.clock.model.Clock;
 
 /**
-* runnable task to continuously print the shared clock's time.
+* Runnable task to continuously print the shared clock's time.
 * @author Malith Dissanayake
 */
 public class TimePrinter implements Runnable {
